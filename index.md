@@ -37,7 +37,7 @@ what i like in no order
 - sleep
 
 hw
--[x] this lab
+- [x] this lab
 
 
 
