@@ -10,7 +10,7 @@
 
 > mj numba one
 
-'Never say never, because limits, like fears, are often just an illusion.'
+`Never say never, because limits, like fears, are often just an illusion.`
 
 ```
 git status
